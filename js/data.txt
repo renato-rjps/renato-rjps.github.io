@@ -1,0 +1,4 @@
+Renato	produto1	20	10
+Renato	produto2	20	10
+Marcelo	produto3	20	10
+Marcelo	produto4	20	10
