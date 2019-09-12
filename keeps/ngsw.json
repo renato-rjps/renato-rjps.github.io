@@ -1,0 +1,130 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568293907381,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.ad89c56c6ba363f844b1.js",
+        "/main-es5.73d78152cdfc5dcf51e4.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.a8cf2d3dc3edef6712e4.js",
+        "/polyfills-es5.1d50a8aa379923cd7296.js",
+        "/runtime-es2015.d61f42a1e4be5689ac82.js",
+        "/runtime-es5.0c5226cce70e491b47d0.js",
+        "/styles.61727301ab00040c475c.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css\\?family=Merriweather:400,700%7CMerriweather\\+Sans:300,400,700"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/Xperts_BG.88b8bc29c0bbf099b558.svg",
+        "/agenda-bg.5f19d0513c16770d7152.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/Xperts_BG.svg",
+        "/assets/images/agenda-bg.png",
+        "/assets/images/banner-bg.png",
+        "/assets/images/bayer-logo.svg",
+        "/assets/images/bg-comeias_baixo.svg",
+        "/assets/images/bg-comeias_cima.svg",
+        "/assets/images/bg1.svg",
+        "/assets/images/certification.svg",
+        "/assets/images/clicker.svg",
+        "/assets/images/logo-footer-left.png",
+        "/assets/images/logo-footer-right.png",
+        "/assets/images/logo.png",
+        "/assets/images/logo_xperts.svg",
+        "/assets/images/mais.svg",
+        "/assets/images/participar-bg.png",
+        "/assets/images/podium.svg",
+        "/banner-bg.0335774c8e7f9f199b3e.png",
+        "/bg-comeias_baixo.2d36cb6d2dc0aefcf243.svg",
+        "/bg-comeias_cima.b4622f2bb214a11dff0f.svg",
+        "/bg1.563098fadd2d2205f4fc.svg",
+        "/logo_xperts.6d1cd802863ef0f3033c.svg",
+        "/participar-bg.ac22961852ca7ff5cda5.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Xperts_BG.88b8bc29c0bbf099b558.svg": "acf471c69803144b922123c9490177864d611591",
+    "/agenda-bg.5f19d0513c16770d7152.png": "c08f9b077ec1e5e66cde16f9e67624a54edbe37e",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/Xperts_BG.svg": "acf471c69803144b922123c9490177864d611591",
+    "/assets/images/agenda-bg.png": "c08f9b077ec1e5e66cde16f9e67624a54edbe37e",
+    "/assets/images/banner-bg.png": "a951542af64459a724702f047a30cbc4af38d92c",
+    "/assets/images/bayer-logo.svg": "19caee0c0eafeb4c13aa71536d46ada68db0e428",
+    "/assets/images/bg-comeias_baixo.svg": "52f24dc1fab58f11af742397dba0473b5ac96f2a",
+    "/assets/images/bg-comeias_cima.svg": "1c9b83dea2eabfeeb2e91de24d3843b718c40f4b",
+    "/assets/images/bg1.svg": "12f53de5b4d78627b1755b622cfbbf267d20a9f6",
+    "/assets/images/certification.svg": "601c3a9c944858d021dc372653a013306bb258d9",
+    "/assets/images/clicker.svg": "cf59917e2a40cdc0b1cd6b4cd006df99bc36c68e",
+    "/assets/images/logo-footer-left.png": "7a55c0575fbd52726828200a4aec0d906426b4ab",
+    "/assets/images/logo-footer-right.png": "36b370e733091773765ec3e851129d71bf13c6a2",
+    "/assets/images/logo.png": "156591e1c421463205b92bc6eddccea0faf28431",
+    "/assets/images/logo_xperts.svg": "f7403feb0ea1ca81a8779c4badf527cdf754e72b",
+    "/assets/images/mais.svg": "82c4ff2267e3f1220fe21f228453fab91663005d",
+    "/assets/images/participar-bg.png": "246d3a7c31b983189a490e7d42e7f14b47f683e7",
+    "/assets/images/podium.svg": "7cc9ed97312bfa78456543cdeefc6dd5a356a465",
+    "/banner-bg.0335774c8e7f9f199b3e.png": "a951542af64459a724702f047a30cbc4af38d92c",
+    "/bg-comeias_baixo.2d36cb6d2dc0aefcf243.svg": "52f24dc1fab58f11af742397dba0473b5ac96f2a",
+    "/bg-comeias_cima.b4622f2bb214a11dff0f.svg": "1c9b83dea2eabfeeb2e91de24d3843b718c40f4b",
+    "/bg1.563098fadd2d2205f4fc.svg": "12f53de5b4d78627b1755b622cfbbf267d20a9f6",
+    "/favicon.ico": "36f666a45702dcd9e56debbda782be6cfd1af233",
+    "/index.html": "2d25d4a8336afb8350748e10ca8cb3e4539fe5e0",
+    "/logo_xperts.6d1cd802863ef0f3033c.svg": "f7403feb0ea1ca81a8779c4badf527cdf754e72b",
+    "/main-es2015.ad89c56c6ba363f844b1.js": "744557fdd58df19a3935ca9d7a8f85db7a09c4e4",
+    "/main-es5.73d78152cdfc5dcf51e4.js": "68e7c478057a4f6cb13c5a3f54bf883de4bba3eb",
+    "/manifest.webmanifest": "0e60924e3833784f92c311eb4c249dd6a67c30f9",
+    "/participar-bg.ac22961852ca7ff5cda5.png": "246d3a7c31b983189a490e7d42e7f14b47f683e7",
+    "/polyfills-es2015.a8cf2d3dc3edef6712e4.js": "08c97940ba93ccc4121b85df6911d86011ef3fb8",
+    "/polyfills-es5.1d50a8aa379923cd7296.js": "9d9b583788005b7e2dc51d2b965f7c09b9180c60",
+    "/runtime-es2015.d61f42a1e4be5689ac82.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.0c5226cce70e491b47d0.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.61727301ab00040c475c.css": "97e2f1523ae46a239a73df2355ae64747b2f2076"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
